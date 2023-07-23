@@ -13,6 +13,12 @@
 <img align="center" alt="HTML 5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="center" alt="HTML 5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="HTML 5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br/>
+<br/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcnoris&hide_progress=DonutChartlayout)
+
 
 
 </div ><br/>
