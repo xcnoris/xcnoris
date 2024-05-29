@@ -3,7 +3,8 @@
 ## Contact me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1709295390)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcnoris&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcnoris&show_icons=true&theme=radical&v=1)
+
 
 ## Technologies I study during my day 👔
 <div style="display: inline_block"><br/>
