@@ -24,3 +24,6 @@
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcnoris&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=xcnoris&color=blue)
+
