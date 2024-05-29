@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcnoris&hide_progress=DonutChartlayout)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcnoris/&hide_progress=DonutChartlayout)
 </div >
 
 
